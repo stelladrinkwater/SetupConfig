@@ -1,0 +1,10 @@
+- vim (vimrc)
+- zsh
+- linux and mac compatibility
+- terminal
+- firefox/waterfox
+- wingide
+- thefuck in terminal
+- download files from mega?
+- setup keepass
+- 

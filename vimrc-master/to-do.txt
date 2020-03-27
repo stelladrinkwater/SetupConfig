@@ -1,0 +1,8 @@
+- read me
+- plugins
+- install
+- uninstall
+- mac/linux compatibility
+- font and colours update
+- mappings
+- auto add matching bracket
